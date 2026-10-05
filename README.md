@@ -17,8 +17,6 @@ ferramentas internas para operação e manutenção: apps de controle, automaç�
 e dashboards que gestor e operador usam de verdade no turno.
 Meu foco é pegar um processo manual que trava a área e entregar uma solução que funcione no
 chão de fábrica, no tablet e no celular.
-Fora do trabalho, desenvolvo mods para Farming Simulator 25 — simulação e telemetria são
-o meu laboratório pessoal.
 
 ---
 
